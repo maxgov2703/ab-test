@@ -3,7 +3,7 @@
 ## Описание проекта
 В данном проекте проведен полный цикл A/B-тестирования для оценки влияния нового дизайна кнопки оформления заказа на Conversion Rate (CR) пользователей.
 
-## 🛠 Инструменты и библиотеки
+## Инструменты и библиотеки
 * Python (Pandas, NumPy, SciPy, Statsmodels)
 * Seaborn, Matplotlib
 * Jupyter Notebook / Google Colab
